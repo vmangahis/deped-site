@@ -1,0 +1,14 @@
+.navDiv{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.navigation a {
+    font-size: 1.2em;
+}
+
+.navigation > li {
+    margin-left:30px;
+    margin-right:30px;
+}
