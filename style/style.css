@@ -28,3 +28,21 @@ a{
     color:blue;
 }
 
+.main-nav, .about{
+    background-color: rgba(169,218,240, 0.5);
+}
+
+.navDiv li > a{
+    color:rgb(45,86,178) !important;
+
+}
+
+.img-thumbnail{
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    max-width: 100%;
+    height: auto;
+}
+
