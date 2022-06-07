@@ -38,7 +38,7 @@ a{
 }
 
 .navDiv li > a{
-    color:rgb(45,86,178) !important;
+    color:black !important;
 }
 
 .dropdown:hover .dropdown-menu{
