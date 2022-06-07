@@ -8,6 +8,10 @@ a{
     text-decoration: none !important;
 }
 
+p{
+    text-align: justify !important;
+}
+
 .lead{
     font-weight: 400 !important;
 }
@@ -33,7 +37,7 @@ a{
     color:blue;
 }
 
-.main-nav, .about{
+.main-nav, .about, .search-bar, .aside-box{
     background-color: rgba(169,218,240, 0.5);
 }
 
