@@ -1,5 +1,9 @@
 
 
+footer{
+    margin-top:100px;
+}
+
 a{
     text-decoration: none !important;
 }
@@ -7,6 +11,8 @@ a{
 .lead{
     font-weight: 400 !important;
 }
+
+
 
 .navDiv{
     display:flex;
@@ -42,6 +48,14 @@ a{
 
 .dropdown-toggle::after{
     display:none !important;
+}
+
+.lr-card{
+    background-color: rgba(169,218,240, 0.5) !important;
+}
+
+.view-all-button{
+    background-color:rgb(45,86,178) !important;
 }
 
 
