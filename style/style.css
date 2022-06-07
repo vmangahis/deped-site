@@ -2,7 +2,6 @@
 
 a{
     text-decoration: none !important;
-
 }
 
 .lead{
@@ -34,15 +33,18 @@ a{
 
 .navDiv li > a{
     color:rgb(45,86,178) !important;
-
 }
 
-.img-thumbnail{
-    padding: 0.25rem;
-    background-color: #fff;
-    border: 1px solid #dee2e6;
-    border-radius: 0.25rem;
-    max-width: 100%;
-    height: auto;
+.dropdown:hover .dropdown-menu{
+    display:block;
+    margin-top:0;
 }
+
+.dropdown-toggle::after{
+    display:none !important;
+}
+
+
+
+
 
