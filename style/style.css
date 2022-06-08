@@ -17,6 +17,10 @@ p{
 }
 
 
+.banner{
+    width:100vw;
+}
+
 
 .navDiv{
     display:flex;
