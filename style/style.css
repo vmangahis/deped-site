@@ -12,6 +12,15 @@ p{
     text-align: justify !important;
 }
 
+aside *{
+    text-align: center;
+}
+
+
+.about *, .aside-box *{
+    text-align: center;
+}
+
 .lead{
     font-weight: 400 !important;
    
@@ -19,6 +28,10 @@ p{
 
 .featurette  *{
     text-align: center !important;
+}
+
+.recent-header{
+    margin-left:15px;
 }
 
 
@@ -74,6 +87,8 @@ p{
 .external-link-icon{
     color:gray;
 }
+
+
 
 
 
