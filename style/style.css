@@ -1,7 +1,16 @@
 
+*{
+    padding:0;
+    margin:0;
+}
 
 footer{
     margin-top:100px;
+}
+
+table{
+    margin-left:auto;
+    margin-right: auto;
 }
 
 a{
@@ -88,6 +97,29 @@ aside *{
     color:gray;
 }
 
+.caret-button *{
+    margin-bottom:0;
+
+}
+
+.caret-button p{
+    margin-left:auto;
+}
+
+.caret-button{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#caret-down-icon, #caret-down-icon-1, #caret-down-icon-2{
+    margin-left:auto;
+}
 
 
 
