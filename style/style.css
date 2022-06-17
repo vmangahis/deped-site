@@ -8,6 +8,10 @@ footer{
     margin-top:100px;
 }
 
+ul{
+    list-style-type: none;
+}
+
 table{
     margin-left:auto;
     margin-right: auto;
@@ -152,6 +156,16 @@ aside *{
 .image-div img{
     margin-right:45px;
 }
+
+.s-box i{
+    margin-right:10px;
+}
+
+.s-box a{
+    margin-top:auto;
+    margin-bottom: auto;
+}
+
 
 
 
