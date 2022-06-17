@@ -25,6 +25,13 @@ aside *{
     text-align: center;
 }
 
+.footer-copyright{
+    background-color:rgb(45,86,178) !important;
+    color:white !important;
+}
+
+
+
 
 .about *, .aside-box *{
     text-align: center;
@@ -68,8 +75,8 @@ aside *{
     color:blue;
 }
 
-.main-nav, .about, .search-bar, .aside-box{
-    background-color: rgba(169,218,240, 0.5);
+.main-nav, .about, .search-bar, .aside-box, .page-footer{
+    background-color: rgba(169,218,240, 0.5) !important;
 }
 
 .navDiv li > a{
@@ -92,6 +99,7 @@ aside *{
 .view-all-button{
     background-color:rgb(45,86,178) !important;
 }
+
 
 .external-link-icon{
     color:gray;
@@ -121,6 +129,29 @@ aside *{
     margin-left:auto;
 }
 
+
+.page-footer{
+    text-align: center;
+
+}
+
+.all-content{
+    font-weight: 800 !important;
+    font-size: 2vh;
+    text-align: center !important;
+    
+}
+
+.image-div{
+
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center !important;
+}
+
+.image-div img{
+    margin-right:45px;
+}
 
 
 
